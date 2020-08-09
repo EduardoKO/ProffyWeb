@@ -8,6 +8,7 @@ import Input from '../../components/Input';
 import Select from '../../components/Select';
 
 function TeacherList() {
+
   return (
     <div id="page-teacher-list" className="container">
       <PageHeader title="Estes são os Proffys disponíveis">
